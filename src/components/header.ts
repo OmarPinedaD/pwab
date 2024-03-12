@@ -72,6 +72,8 @@ export class AppHeader extends LitElement {
           </sl-button>` : null}
 
           <h1>${this.title}</h1>
+          <h2></h2>
+
         </div>
       </header>
     `;
